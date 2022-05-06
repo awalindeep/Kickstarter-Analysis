@@ -115,6 +115,6 @@ There were few challenges and difficulties faced during this Challenge.
      * There were few limitations of data set. One of the limitations was that it was unstructured and had to be converted from tabular data to readable data. It required reorganization to be analyzed properly. There were deficiencies in data to run measurements and the format had to be converted for columns and rows. The data had to be filtered to analyze the goals and reach the desired outcomes of generating insights that will help Louise.
      
 - What are some other possible tables and/or graphs that we could create?
-    * We can create a Pivot table for parent category Theater to analyze the Outcome based on Country and Currency in which the campaigns were most successful and add a pivot table graphs. 
+    * We can create a Pivot table for parent category theater to analyze the outcome based on Country and Currency in which the campaigns were most successful and add a pivot table graphs. 
 
 ##### File : - [Excel file Kickstarter Challenge](https://github.com/awalindeep/Kickstarter-Analysis/blob/AwalinGHMAIN/Resources/Kickstarter_challenge.xlsx) 
