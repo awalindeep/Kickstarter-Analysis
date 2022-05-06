@@ -42,7 +42,7 @@
 
   
 
-* The findings can be determined by examining the points along the trend lines of the [given chart](https://github.com/awalindeep/Kickstarter-Analysis/blob/AwalinGHMAIN/Resources/Theater_Outcomes_vs_Launch.png).
+* The findings can be determined by examining the points along the trend lines of [Theater Outcomes Based on Launch date line chart](https://github.com/awalindeep/Kickstarter-Analysis/blob/AwalinGHMAIN/Resources/Theater_Outcomes_vs_Launch.png).
 
   
 ![Theater Outcomes Based on Launch Date](https://github.com/awalindeep/Kickstarter-Analysis/blob/AwalinGHMAIN/Resources/Theater_Outcomes_vs_Launch.png)
@@ -58,7 +58,7 @@
 
   
 
-* [The line chart](https://github.com/awalindeep/Kickstarter-Analysis/blob/AwalinGHMAIN/Resources/Outcomes_vs_Goals.png) also dictates that the campaigns with lower fundraising goals had high success rate.
+* [The outcomes based on goals line chart](https://github.com/awalindeep/Kickstarter-Analysis/blob/AwalinGHMAIN/Resources/Outcomes_vs_Goals.png) also dictates that the campaigns with lower fundraising goals had high success rate.
 
   
 
