@@ -46,7 +46,7 @@
 
   
 
-![Theater Outcomes Based on Launch Date](Theater_Outcomes_vs_Launch.png)
+Theater Outcomes Based on Launch Date
 
   
 
@@ -66,7 +66,7 @@
 
   
 
-![Outcomes vs Goals](Outcomes_vs_Goals.png)
+Outcomes vs Goals
 
   
 
@@ -118,4 +118,3 @@ There were few challenges and difficulties faced during this Challenge.
      
 - What are some other possible tables and/or graphs that we could create?
     * We can create a Pivot table for parent category Theater to analyze the Outcome based on Country and Currency in which the campaigns were most successful and add a pivot table graphs. 
-
