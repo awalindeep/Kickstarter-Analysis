@@ -45,8 +45,8 @@
 * The findings can be determined by examining the points along the trend lines of the [given chart](https://github.com/awalindeep/Kickstarter-Analysis/blob/AwalinGHMAIN/Resources/Theater_Outcomes_vs_Launch.png).
 
   
+![Theater Outcomes Based on Launch Date](https://github.com/awalindeep/Kickstarter-Analysis/blob/AwalinGHMAIN/Resources/Theater_Outcomes_vs_Launch.png)
 
-![Theater Outcomes Based on Launch Date](Theater_Outcomes_vs_Launch.png)
 
   
 
@@ -66,7 +66,7 @@
 
   
 
-![Outcomes vs Goals](Outcomes_vs_Goals.png)
+![Outcomes vs Goals](https://github.com/awalindeep/Kickstarter-Analysis/blob/AwalinGHMAIN/Resources/Outcomes_vs_Goals.png)
 
   
 
