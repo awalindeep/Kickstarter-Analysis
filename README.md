@@ -95,7 +95,7 @@ There were few challenges and difficulties faced during this Challenge.
     - Based on our findings, the month of May had the most successful Kickstarter campaigns for the parent category "Theater." April, May, June, and July accounted for 44% of all successful programmes.
   
 
-    - While 40% of failed campaigns were launched in May, June, and July The campaigns launched in January, March, September, November, and December was nearly the same
+    - While 40% of failed campaigns were launched in May, June, and July The campaigns launched in January, March, September, November, and December was nearly the same.
 
   
 
@@ -106,13 +106,13 @@ There were few challenges and difficulties faced during this Challenge.
 
   
 
-    - We may conclude from Outcomes on Targets in Parent category of Theater campaigns that the greater the fund-raising goals, the lower the campaign's success rate.
+    - We may conclude from Outcomes on Targets in Parent category of Theater campaigns is that the greater the fund-raising goals, the lower the campaign's success rate.
 
   
 
 - What are some limitations of this dataset?
 
-     * There were few limitations of data set. One of the limitations was that it was unstructured and had to be converted from tabular data to readable data. It required reorganization to be analyze properly. There were deficiencies in data to run measurements and the format had to be converted for columns and rows. The data had to be filtered to analyze the goals and reach the desired outcomes of generating insights that will help Louise.
+     * There were few limitations of data set. One of the limitations was that it was unstructured and had to be converted from tabular data to readable data. It required reorganization to be analyzed properly. There were deficiencies in data to run measurements and the format had to be converted for columns and rows. The data had to be filtered to analyze the goals and reach the desired outcomes of generating insights that will help Louise.
      
 - What are some other possible tables and/or graphs that we could create?
     * We can create a Pivot table for parent category Theater to analyze the Outcome based on Country and Currency in which the campaigns were most successful and add a pivot table graphs. 
