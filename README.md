@@ -46,7 +46,7 @@
 
   
 
-Theater Outcomes Based on Launch Date
+![Theater Outcomes Based on Launch Date](Theater_Outcomes_vs_Launch.png)
 
   
 
@@ -66,7 +66,7 @@ Theater Outcomes Based on Launch Date
 
   
 
-Outcomes vs Goals
+![Outcomes vs Goals](Outcomes_vs_Goals.png)
 
   
 
