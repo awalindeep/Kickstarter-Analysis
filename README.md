@@ -118,3 +118,5 @@ There were few challenges and difficulties faced during this Challenge.
      
 - What are some other possible tables and/or graphs that we could create?
     * We can create a Pivot table for parent category Theater to analyze the Outcome based on Country and Currency in which the campaigns were most successful and add a pivot table graphs. 
+
+[Kickstarter_challenge.xlsx file]https://github.com/awalindeep/Kickstarter-Analysis/blob/AwalinGHMAIN/Resources/Kickstarter_challenge.xlsx
