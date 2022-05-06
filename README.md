@@ -11,16 +11,16 @@
 
  ### Background of Project 
 
-#### In short length of time, Louise's play "FEVER" came close to reaching its fundraising target. She is now looking to know how certain campaigns fared in terms of their debut dates and financial targets. She is looking for help to Organize, Sort and analyze crowdfunding data to determine specific factors that make projects campaign successful. 
+#### In short length of time, Louise's play "FEVER" came close to reaching its fundraising target. She is now looking to know how certain campaigns fared in terms of their launch dates and financial targets. She is looking for help to Organize, Sort and analyze crowdfunding data to determine specific factors that make projects campaign successful. 
 
-#### We will be assisting Louise with this and performing data analysis on crowd funding projects to uncover any hidden trends and provide insights. We will be analyzing campaign outcomes based on their launch dates and funding targets using kickstarter statistics provided earlier. These analysis will set her campaign to mirror other successful campaigns in Theater category.
+#### We will be assisting Louise with this and performing data analysis on crowd funding campaigns to uncover any hidden trends and provide insights. We will be analyzing campaign outcomes based on their launch dates and funding targets using kickstarter statistics provided earlier. These analysis will set her campaign to mirror other successful campaigns in Theater category.
 
   
 
 ### Purpose of Project
 
   
-### The purpose of this project is to use accessible kickstarter data and see how different Crowdfunded campaigns performed in relation to their Launch date and financial targets. After running the Analysis generate insights that will help Louise with her Play *Fever*. 
+### The purpose of this project is to use accessible kickstarter data and see how different Crowdfunded campaigns performed in relation to their Launch date and financial targets. After running the Analysis we will generate insights that will help Louise with her Play *Fever*. 
 
  ## Analysis and Challenges
 
@@ -34,7 +34,7 @@
 
   
 
-* January, March, September and November and December all had roughly the same number of failed campaigns launched.
+* January,March,September,November and December all had roughly the same number of failed campaigns launched.
 
   
 
@@ -52,17 +52,15 @@
 
 ### Analysis of Outcomes Based on Goals
 
-  
-
-* From Outcomes based on Goals analysis it can be determined that percentage Failed Kickstarter campaigns was lower for lower fundraising goals.
 
   
 
 * [The outcomes based on goals line chart](https://github.com/awalindeep/Kickstarter-Analysis/blob/AwalinGHMAIN/Resources/Outcomes_vs_Goals.png) also dictates that the campaigns with lower fundraising goals had high success rate.
 
+*   From Outcomes based on Goals analysis it can be determined that the percentage of Failed Kickstarter campaigns was low for lower fundraising goals.
   
 
-* In result we can conclude that the higher the fund raising goals the lower the success rate of a campaign.
+*   So, we can conclude that the higher the fund raising goals the lower the success rate of a campaign.
 
   
 
