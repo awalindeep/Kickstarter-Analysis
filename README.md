@@ -1,3 +1,4 @@
+
 # An Analysis of Kickstarter Campaigns
 
   
@@ -41,7 +42,7 @@
 
   
 
-* The findings can be determined by examining the points along the trend lines of the given chart.
+* The findings can be determined by examining the points along the trend lines of the [given chart](https://github.com/awalindeep/Kickstarter-Analysis/blob/AwalinGHMAIN/Resources/Theater_Outcomes_vs_Launch.png).
 
   
 
@@ -57,7 +58,7 @@
 
   
 
-* The line chart also dictates that the campaigns with lower fundraising goals had high success rate.
+* [The line chart](https://github.com/awalindeep/Kickstarter-Analysis/blob/AwalinGHMAIN/Resources/Outcomes_vs_Goals.png) also dictates that the campaigns with lower fundraising goals had high success rate.
 
   
 
@@ -117,3 +118,4 @@ There were few challenges and difficulties faced during this Challenge.
      
 - What are some other possible tables and/or graphs that we could create?
     * We can create a Pivot table for parent category Theater to analyze the Outcome based on Country and Currency in which the campaigns were most successful and add a pivot table graphs. 
+
